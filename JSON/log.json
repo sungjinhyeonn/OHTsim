@@ -1,0 +1,5 @@
+{
+	"fileName": "log",
+	"logPath": "./Log/",
+	"logVehicle": "logVehicle.csv"
+}

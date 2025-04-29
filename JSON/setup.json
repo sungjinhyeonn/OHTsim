@@ -1,0 +1,23 @@
+{
+	"fileName": "setup",
+	"simulationMode": true,
+	"passingScore": 95, 
+	"yieldRange": 10,
+	"numVehicles":17,     
+	"numJob": 20,
+	"jobStart": 10,
+	"jobEnd": 20,
+	"monteCarlo": 30,
+	"isVehicleChange": false,
+	"isLogOn": false,
+	"isAnalysisLogOn": false,
+	"isTerminalOn": false,
+	"isVisualizerOn": true,
+	"isVisualizerLogOn": false,
+	"isMakeRlEnv": false,
+	"isShowFigure": true,
+	"isSaveFigure": true,
+	"playBackMode": false,
+	"RLTrainMode": false,
+	"renderTime": 0.01
+}

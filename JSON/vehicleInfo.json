@@ -1,0 +1,320 @@
+{
+	"fileName": "vehicleInfo",
+	"vehicleInfo": [
+		{
+			"vehicleID": "VEHICLE0000000000001",
+			"operateTime": 1.0,
+			"moveTime": 1.0,
+			"coordinates": [
+				131.0,
+				34.0
+			]
+		},
+		{
+			"vehicleID": "VEHICLE0000000000002",
+			"operateTime": 1.0,
+			"moveTime": 1.0,
+			"coordinates": [
+				142.0,
+				28.0
+			]
+		},
+		{
+			"vehicleID": "VEHICLE0000000000003",
+			"operateTime": 1.0,
+			"moveTime": 1.0,
+			"coordinates": [
+				149.0,
+				42.0
+			]
+		},
+		{
+			"vehicleID": "VEHICLE0000000000004",
+			"operateTime": 1.0,
+			"moveTime": 1.0,
+			"coordinates": [
+				132.0,
+				43.0
+			]
+		},
+		{
+			"vehicleID": "VEHICLE0000000000005",
+			"operateTime": 1.0,
+			"moveTime": 1.0,
+			"coordinates": [
+				121.0,
+				43.0
+			]
+		},
+		{
+			"vehicleID": "VEHICLE0000000000006",
+			"operateTime": 1.0,
+			"moveTime": 1.0,
+			"coordinates": [
+				123.0,
+				1.0
+			]
+		},
+		{
+			"vehicleID": "VEHICLE0000000000007",
+			"operateTime": 1.0,
+			"moveTime": 1.0,
+			"coordinates": [
+				109.0,
+				1.0
+			]
+		},
+		{
+			"vehicleID": "VEHICLE0000000000008",
+			"operateTime": 1.0,
+			"moveTime": 1.0,
+			"coordinates": [
+				108.0,
+				9.0
+			]
+		},
+		{
+			"vehicleID": "VEHICLE0000000000009",
+			"operateTime": 1.0,
+			"moveTime": 1.0,
+			"coordinates": [
+				108.0,
+				34.0
+			]
+		},
+		{
+			"vehicleID": "VEHICLE0000000000010",
+			"operateTime": 1.0,
+			"moveTime": 1.0,
+			"coordinates": [
+				108.0,
+				42.0
+			]
+		},
+		{
+			"vehicleID": "VEHICLE0000000000011",
+			"operateTime": 1.0,
+			"moveTime": 1.0,
+			"coordinates": [
+				98.0,
+				42.0
+			]
+		},
+		{
+			"vehicleID": "VEHICLE0000000000012",
+			"operateTime": 1.0,
+			"moveTime": 1.0,
+			"coordinates": [
+				81.0,
+				41.0
+			]
+		},
+		{
+			"vehicleID": "VEHICLE0000000000013",
+			"operateTime": 1.0,
+			"moveTime": 1.0,
+			"coordinates": [
+				74.0,
+				56.0
+			]
+		},
+		{
+			"vehicleID": "VEHICLE0000000000014",
+			"operateTime": 1.0,
+			"moveTime": 1.0,
+			"coordinates": [
+				127.0,
+				68.0
+			]
+		},
+		{
+			"vehicleID": "VEHICLE0000000000015",
+			"operateTime": 1.0,
+			"moveTime": 1.0,
+			"coordinates": [
+				88.0,
+				71.0
+			]
+		},
+		{
+			"vehicleID": "VEHICLE0000000000016",
+			"operateTime": 1.0,
+			"moveTime": 1.0,
+			"coordinates": [
+				125.0,
+				105.0
+			]
+		},
+		{
+			"vehicleID": "VEHICLE0000000000017",
+			"operateTime": 1.0,
+			"moveTime": 1.0,
+			"coordinates": [
+				98.0,
+				138.0
+			]
+		},
+		{
+			"vehicleID": "VEHICLE0000000000018",
+			"operateTime": 1.0,
+			"moveTime": 1.0,
+			"coordinates": [
+				87.0,
+				121.0
+			]
+		},
+		{
+			"vehicleID": "VEHICLE0000000000019",
+			"operateTime": 1.0,
+			"moveTime": 1.0,
+			"coordinates": [
+				64.0,
+				14.0
+			]
+		},
+		{
+			"vehicleID": "VEHICLE0000000000020",
+			"operateTime": 1.0,
+			"moveTime": 1.0,
+			"coordinates": [
+				62.0,
+				32.0
+			]
+		},
+		{
+			"vehicleID": "VEHICLE0000000000021",
+			"operateTime": 1.0,
+			"moveTime": 1.0,
+			"coordinates": [
+				60.0,
+				70.0
+			]
+		},
+		{
+			"vehicleID": "VEHICLE0000000000022",
+			"operateTime": 1.0,
+			"moveTime": 1.0,
+			"coordinates": [
+				61.0,
+				137.0
+			]
+		},
+		{
+			"vehicleID": "VEHICLE0000000000023",
+			"operateTime": 1.0,
+			"moveTime": 1.0,
+			"coordinates": [
+				64.0,
+				164.0
+			]
+		},
+		{
+			"vehicleID": "VEHICLE0000000000024",
+			"operateTime": 1.0,
+			"moveTime": 1.0,
+			"coordinates": [
+				46.0,
+				5.0
+			]
+		},
+		{
+			"vehicleID": "VEHICLE0000000000025",
+			"operateTime": 1.0,
+			"moveTime": 1.0,
+			"coordinates": [
+				46.0,
+				144.0
+			]
+		},
+		{
+			"vehicleID": "VEHICLE0000000000026",
+			"operateTime": 1.0,
+			"moveTime": 1.0,
+			"coordinates": [
+				40.0,
+				155.0
+			]
+		},
+		{
+			"vehicleID": "VEHICLE0000000000027",
+			"operateTime": 1.0,
+			"moveTime": 1.0,
+			"coordinates": [
+				32.0,
+				51.0
+			]
+		},
+		{
+			"vehicleID": "VEHICLE0000000000028",
+			"operateTime": 1.0,
+			"moveTime": 1.0,
+			"coordinates": [
+				29.0,
+				99.0
+			]
+		},
+		{
+			"vehicleID": "VEHICLE0000000000029",
+			"operateTime": 1.0,
+			"moveTime": 1.0,
+			"coordinates": [
+				18.0,
+				2.0
+			]
+		},
+		{
+			"vehicleID": "VEHICLE0000000000030",
+			"operateTime": 1.0,
+			"moveTime": 1.0,
+			"coordinates": [
+				18.0,
+				26.0
+			]
+		},
+		{
+			"vehicleID": "VEHICLE0000000000031",
+			"operateTime": 1.0,
+			"moveTime": 1.0,
+			"coordinates": [
+				6.0,
+				69.0
+			]
+		},
+		{
+			"vehicleID": "VEHICLE0000000000032",
+			"operateTime": 1.0,
+			"moveTime": 1.0,
+			"coordinates": [
+				18.0,
+				116.0
+			]
+		},
+		{
+			"vehicleID": "VEHICLE0000000000033",
+			"operateTime": 1.0,
+			"moveTime": 1.0,
+			"coordinates": [
+				5.0,
+				133.0
+			]
+		},
+		{
+			"vehicleID": "VEHICLE0000000000034",
+			"operateTime": 1.0,
+			"moveTime": 1.0,
+			"coordinates": [
+				39.0,
+				163.0
+			]
+		},
+		{
+			"vehicleID": "VEHICLE0000000000035",
+			"operateTime": 1.0,
+			"moveTime": 1.0,
+			"coordinates": [
+				56.0,
+				76.0
+			]
+		}
+	]
+}
